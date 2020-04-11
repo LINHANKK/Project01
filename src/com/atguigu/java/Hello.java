@@ -75,7 +75,7 @@ public class Hello {
             
         }
 
-        ArrayList<Object> list = new ArrayList<>();
+        ArrayList<Object> list1 = new ArrayList<>();
         list.add(123);
         list.add(345);
         list.add(5967);
